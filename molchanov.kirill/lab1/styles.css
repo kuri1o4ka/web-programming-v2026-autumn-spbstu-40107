@@ -10,47 +10,47 @@ body {
 }
 
 main {
-    max-width: 400px;
-    margin: 0 auto;
+  max-width: 400px;
+  margin: 0 auto;
 }
 
 h1 {
-    text-align: center;
-    font-size: 24px;
-    margin-bottom: 20px;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
 }
 
 .menu {
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 
-    width: 400px;
-    max-width: 100%;
+  width: 400px;
+  max-width: 100%;
 
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 
-    list-style: none;
+  list-style: none;
 }
 
 .menu li {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 
-    width: 100%;
-    gap: 12px;
+  width: 100%;
+  gap: 12px;
 
-    border-bottom: 1px solid #000;
-    padding-bottom: 8px;
+  border-bottom: 1px solid #000;
+  padding-bottom: 8px;
 }
 
 .name {
-    text-align: left;
+  text-align: left;
 }
 
 .price {
-    text-align: right;
-    white-space: nowrap;
+  text-align: right;
+  white-space: nowrap;
 }
